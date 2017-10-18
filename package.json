@@ -1,0 +1,8 @@
+{
+  "name": "y2",
+  "version": "0.0.0",
+  "main": "y2.js",
+  "repository": "https://github.com/shawwn/y2",
+  "author": "Shawn Presser <shawnpresser@gmail.com>",
+  "license": "BSD-2-Clause"
+}
